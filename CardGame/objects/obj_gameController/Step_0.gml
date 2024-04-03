@@ -109,6 +109,7 @@ if(discardCards)
 			a.targetX = t.x;
 			a.targetY = t.y;
 			sPassed = s;
+			global.SuperWin = s;
 			}
 			}
 		uvTimer -= 1;
