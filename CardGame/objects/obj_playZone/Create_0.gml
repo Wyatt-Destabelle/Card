@@ -1,0 +1,9 @@
+global.playArea = id;
+playAreaArray = [];
+
+
+
+
+
+
+
